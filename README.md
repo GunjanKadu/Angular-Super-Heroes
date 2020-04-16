@@ -4,7 +4,7 @@
     Example app with Angular 8 + Angular CLI + Angular Universal + i18n + Firebase
     <br>
     <br>
-    :clap::clap::tada::tada::tada::tada::clap::clap:
+    :heart::heart::tada::tada::tada::tada::heart::heart:
     <br>
     <br>
     Base project made with much :heart:. Contains CRUD, patterns, generated library, and much more!
@@ -12,6 +12,10 @@
     <br>
   </p>
 </p>
+
+## Demo
+
+![](gif/Demo1.gif)
 
 ## What's included
 
