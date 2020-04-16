@@ -6,10 +6,6 @@
     <br>
     :heart::heart::tada::tada::tada::tada::heart::heart:
     <br>
-    <br>
-    Base project made with much :heart:. Contains CRUD, patterns, generated library, and much more!
-    <br>
-    <br>
   </p>
 </p>
 
@@ -52,17 +48,7 @@
 
 This repo is using Firebase. We use Cloud Firestore and Cloud Storage to handle CRUD operations over the heroes and to store their images. Also Hosting and Functions to deploy the app with Universal.
 
-## Travis CI
 
-We use Travis CI to run this tasks in order:
-
-- Linter
-- Unit tests
-- End to end tests
-- Build for production of browser and server
-- Validate that server generated using curl
-- Sonar
-- Deploy to Firebase
 
 ## Quick start
 
